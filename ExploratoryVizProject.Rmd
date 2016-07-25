@@ -10,6 +10,7 @@ library(scales)
 library(ggplot2)
 library(ggthemes)
 ```
+View project on RPubs: <a href="http://rpubs.com/sjstebbins/ExploratoryVizProject">HERE</a>
 
 #Are Student Loans a Subprime Time-bomb for the US Government?
 
