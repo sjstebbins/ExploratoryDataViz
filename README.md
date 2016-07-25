@@ -1,7 +1,8 @@
 # ExploratoryDataViz
 Exploratory Data Visualization Project in R while @ NYC Data Science Academy
 
-View project at NYC Data Science: <a href="http://blog.nycdatascience.com/student-works/student-loans-us-govt-s-subprime-time-bomb/">HERE</a>
+View project on NYC Data Science Blog: <a href="http://blog.nycdatascience.com/student-works/student-loans-us-govt-s-subprime-time-bomb/">HERE</a>
+<br/>
 View project on RPubs: <a href="http://rpubs.com/sjstebbins/ExploratoryVizProject">HERE</a>
 or open R markdown in Rstudio. 
 
